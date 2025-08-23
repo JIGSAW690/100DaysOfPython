@@ -1,0 +1,6 @@
+#Sensitive Values stored in environment variables.
+account_sid = os.environ.get("ACCOUNT_SID")
+auth_token = os.environ.get("AUTH_TOKEN")
+STOCK_API_KEY =  os.environ.get("STOCK_API_KEY") # "IRAHIDJHQ7UJ36F5"
+NEWS_API_KEY = os.environ.get("NEWS_API_KEY")
+MESSAGING_SERVICE_SID = os.environ.get("MESSAGING_SERVICE_SID")
