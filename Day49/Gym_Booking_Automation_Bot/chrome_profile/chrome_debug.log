@@ -1,0 +1,9 @@
+[25936:11256:0910/092408.537:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[69136:56720:0910/092409.449:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 4
+[66848:39316:0910/092409.565:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[60088:9040:0910/092410.453:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 4
+[49496:58756:0910/092410.678:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 4
+[65400:52108:0910/092412.231:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 4
+[68988:70728:0910/092414.355:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 4
+[71348:18396:0910/092424.787:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[71348:18396:0910/092424.787:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
